@@ -1,0 +1,19 @@
+name: EraseMap
+version: 1.0
+main: org.erasemap.erasemap.Erasemap
+api-version: 1.20
+
+authors:
+  - Isax
+
+commands:
+  erase:
+    description: Supprime une couche de blocs autour du joueur
+    usage: /erase
+  info:
+    description: Affiche les informations sur le plugin
+    usage: /info
+
+permissions:
+  erasemap.use:
+    default: op
