@@ -2,7 +2,7 @@
 
 👋 Hello everyone ! This project is **archived** !
 
-👉 To **continue to use** *EraseMap*, use the source code
+👉 To **continue to use** *EraseMap*, use the source code or [the last version](https://github.com/Isax820/EraseMap/releases/tag/1.0)
 
 🥹 I'm sorry !
 
